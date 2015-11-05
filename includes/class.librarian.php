@@ -64,7 +64,7 @@ class Librarian {
 		$this->root_path = $_SERVER['DOCUMENT_ROOT'];
 
 		// Load the Parsedown Markdown parser and store handler
-		require "class.Parsedown.php";
+		require "class.parsedown.php";
 		$this->Parsedown = new Parsedown();
 
 		// Load all of the library js plugins used for various plugin tools.
