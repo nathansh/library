@@ -1,0 +1,3 @@
+[submodule "DbConnector"]
+	path = assets/stylesheets/sassyplate
+	url = https://github.com/nathansh/sassyplate

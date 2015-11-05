@@ -1,0 +1,8 @@
+{
+	"title": "Form layout",
+	"variants": [
+		"form--horizontal",
+		"form--inline",
+		" form__checkbox--inline"
+	]
+}
